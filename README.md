@@ -1,6 +1,6 @@
-# Cybercrime Prevention Awareness Campaign for Small Businesses
+# Cybercrime Prevention Awareness Campaign
 
-## Objective
+### Objective
 I want to educate small businesses about key cybercrimes threats and practical prevention strategies.
 
 - Target:
